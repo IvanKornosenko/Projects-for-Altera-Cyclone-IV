@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\korno\Desktop\FPGA_Projects\Answer\Chapter_2 (2.5.1)\t_trigger
+vsev_seg
+Z1 !s100 :DmmOXOVY2Tof@IYN^3k?2
+Z2 I@@5k:==iC<JB2j3[2>hen3
+Z3 V2[MVeBGZ9;S[Lb;Zh0a`>3
+Z4 dC:\Users\korno\Desktop\FPGA_Projects\my projects for Cyclone IV\Sevenseg
+Z5 w1764148145
+Z6 8C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v
+Z7 FC:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1764149322.645000
+Z12 !s107 C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v|
+!s101 -O0
+vsev_seg_tb
+!i10b 1
+!s100 obDbU@mV>Wid_W4?QRPzC1
+I2>?bz=Y`d_R>Zi`H5S_Xz0
+Z13 V<MMLg;B]9j<Q<:5iehE;?3
+R4
+w1764149302
+Z14 8C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v
+Z15 FC:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1764149322.694000
+!s107 C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v|
+!s101 -O0
+R10

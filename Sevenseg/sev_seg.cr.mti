@@ -1,0 +1,15 @@
+{C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v} {1 {vlog -work work {C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sev_seg
+
+Top level modules:
+	sev_seg
+
+} {} {}} {C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v} {1 {vlog -work work {C:/Users/korno/Desktop/FPGA_Projects/my projects for Cyclone IV/Sevenseg/sev_seg_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sev_seg_tb
+
+Top level modules:
+	sev_seg_tb
+
+} {} {}}
